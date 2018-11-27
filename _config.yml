@@ -26,7 +26,7 @@ incremental         : false
 detach              : false
 port                : 4000
 host                : 127.0.0.1
-baseurl: "/simple_site"
+baseurl: "/jekyll_simple_site"
 url: "https://nabileboukourray.github.io"
 show_dir_listing    : false
 title              : My Site
