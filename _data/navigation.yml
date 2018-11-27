@@ -7,7 +7,7 @@ navs:
   url: /users
 
 - title: Contact
-  url: 7contact
+  url: /contact
 
 - title: About
   url: /about
