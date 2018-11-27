@@ -1,0 +1,16 @@
+navs:
+
+- title: Home
+  url: /
+
+- title: Users
+  url: /users
+
+- title: Contact
+  url: /contact
+
+- title: About
+  url: /about
+
+- title: Photos
+  url: /photos
