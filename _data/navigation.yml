@@ -1,16 +1,16 @@
 navs:
 
 - title: Home
-  url: 
+  url: /
 
 - title: Users
-  url: users
+  url: /users
 
 - title: Contact
-  url: contact
+  url: 7contact
 
 - title: About
-  url: about
+  url: /about
 
 - title: Photos
-  url: photos
+  url: /photos
